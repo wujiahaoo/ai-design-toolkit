@@ -6,7 +6,7 @@
 
 ## 📦 项目列表
 
-### 1️⃣ [LayerMind](./LayerMind/) - Photoshop AI 图层智能命名/分类插件
+### 1️⃣ [LayerMind](./LayerMind/) - Photoshop AI 图层智能命名/分类插件(暂不能使用)
 
 一个基于 AI 技术的 Photoshop 图层智能管理工具，能够自动识别图层内容并生成具有语义的名称，同时根据内容自动创建分类分组。
 
