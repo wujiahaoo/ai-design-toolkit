@@ -17,8 +17,8 @@ from PIL import Image, ImageDraw, ImageFont
 # ============================================
 # 配置区域 - 请在这里替换你的百度AI API密钥
 # ============================================
-API_KEY = "0P65UW0i8kMJVr3M84hyQD3l"  # 请替换为你的百度AI API Key
-SECRET_KEY = "KMMLxHwIgR38hNFVlIHB0PWh85sqsUk5"  # 请替换为你的百度AI Secret Key
+API_KEY = 你的百度AI API Key"  # 请替换为你的百度AI API Key
+SECRET_KEY = "请替换为你的百度AI Secret Key"  # 请替换为你的百度AI Secret Key
 
 # ============================================
 # 全局变量和缓存
@@ -573,3 +573,4 @@ if __name__ == "__main__":
 
 4. 在浏览器中打开显示的地址使用
 """
+
